@@ -1,0 +1,17 @@
+
+table tr td
+{
+   color:purple #7744FF;
+   font-family:Comic Sans MS,cursive,sans-serif;
+   font-size:45px;
+   font-weight:640;
+   text-shadow:2px 2px #CCBBFF
+}
+
+input
+{
+   font-family:Arial,Helvetica,sans-serif;
+   font-size:23px;
+   font-weight:676;
+   padding:3px 3px 2px 1px
+}
